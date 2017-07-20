@@ -4,4 +4,4 @@ A single page one column resume for software developers. It uses the base latex 
 
 ### Resume
 
-![Resume Screenshot](/kyle_hovey_resume.pdf)
+![Resume Screenshot](/kyle_hovey_resume.png)
